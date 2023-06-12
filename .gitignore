@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# build file and object file
+code_list_6/build/
